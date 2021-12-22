@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rianatbuhari
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects to develoy skill. Open to internships and bootcamp
+- 💞️ I’m looking to collaborate on projects to develop my skills. I'm open to internships and bootcamps
 - 📫 How to reach me: buharirianat@gmail.com, twitter - @rianatbuhari
 
 <!---
